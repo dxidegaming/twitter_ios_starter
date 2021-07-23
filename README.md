@@ -27,4 +27,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='week3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src ='z.jpg' >
+<img src =' ' >
